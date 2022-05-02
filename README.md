@@ -9,6 +9,7 @@ This session provides an overview of the latest developments in AWS threat detec
 
 **Speaker:** Rodrigo Ferroni, STAM - Security Specialist, AWS
 
+You can downloawd the presentation [here](https://github.com/rferroni/aws-threat-detection-demo/blob/main/AWSSummitLondon-ThreatDetectionRemediation.pdf).
 
 ------------------------------------------------------------------------------------------------
 
